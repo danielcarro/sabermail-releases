@@ -46,7 +46,13 @@ previews/
 *.sqlite
 
 # ---- Keep only example assets in these folders ----
-templates/*
-!templates/example.html
-contacts/*
-!contacts/example.json
+backend/templates/*
+!backend/templates/example.html
+backend/contacts/*
+!backend/contacts/example.json
+
+# ---- Build artifacts ----
+dist/
+*.spec
+frontend/dist/
+frontend/build/

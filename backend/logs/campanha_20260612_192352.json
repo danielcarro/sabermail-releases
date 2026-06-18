@@ -1,0 +1,1401 @@
+{
+  "data_inicio": "2026-06-12T19:24:02.828150",
+  "total_emails": 199,
+  "sucessos": 198,
+  "falhas": 1,
+  "envios": [
+    {
+      "timestamp": "2026-06-12T19:24:02.828167",
+      "email": "teliotufic@gmail.com",
+      "empresa": "MASTER SERVICE PRESTACAO DE SERVICOS E E",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:07.467595",
+      "email": "amarildocontabeis@yahaoo.com.br",
+      "empresa": "TRATE TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:12.424715",
+      "email": "financeiro@parceriaconsult.com.br",
+      "empresa": "PARCERIA SERVICOS TEMPORARIOS LIMITADA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:15.941375",
+      "email": "ecin@ecin.com.br",
+      "empresa": "J T N S SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:20.192356",
+      "email": "valdireneresgate@terra.com.br",
+      "empresa": "C&C LITORAL EMPREITEIRA E ADMINIISTRACAO",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:24.812845",
+      "email": "trhsp@trh.com.br",
+      "empresa": "TRH SERVICOS E RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:29.059063",
+      "email": "kontacta@terra.com.br",
+      "empresa": "REHUTE RECURSOS HUMANOS E TERCEIRIZACAO ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:35.125044",
+      "email": "fspatara@uol.com.br",
+      "empresa": "C & L CONSULTORIA E SERVICOS S/C LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:39.645528",
+      "email": "contabilidade@escritoriomoreira.com.br",
+      "empresa": "XWORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:43.583140",
+      "email": "contato@pcae.com.br",
+      "empresa": "PONTO DE APOIO SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:48.668130",
+      "email": "nw@nwork.com.br",
+      "empresa": "NEW WORK TERCEIRIZACAO E TEMPORARIOS LTD",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:53.385927",
+      "email": "atendimento.panini@hotmail.com",
+      "empresa": "E. F. S. LOCACOES LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:24:57.114818",
+      "email": "marlene@grupoacms.com.br",
+      "empresa": "MARLENE GRANIG",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:03.366995",
+      "email": "contato@fiscolexonline.com.br",
+      "empresa": "INOVARHE TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:07.340428",
+      "email": "farolassessoria@terra.com.br",
+      "empresa": "PRODOS PARCERIA EM RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:12.688501",
+      "email": "assetelrh@yahoo.com.br",
+      "empresa": "ASSETEL - RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:18.534165",
+      "email": "carlos@globalcontabilidade.com.br",
+      "empresa": "VAHR - CONSULTORIA E TERCEIRIZACAO EM TE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:22.358603",
+      "email": "unyterse@gmail.com",
+      "empresa": "UNYTERSE SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:27.715027",
+      "email": "trevizan_terc.@uol.com.br",
+      "empresa": "TREVISAN TERCEIRIZACOES SC LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:33.372319",
+      "email": "primecont@gmail.com",
+      "empresa": "JFB SERVICOS ESPECIALIZADOS DE MAO DE OB",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:38.335170",
+      "email": "infortec.contab@yahoo.com.br",
+      "empresa": "CAMILO GESTAO DE FROTA,PESSOAS E OBRAS L",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:44.015889",
+      "email": "tchellobarros@hotmail.com",
+      "empresa": "MARCOS SANTOS FERRAZ PIZZARIA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:49.698571",
+      "email": "jb.contabil@bol.com.br",
+      "empresa": "ALPHADREAN HIGIENIZACAO AMBIENTAL LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:53.348497",
+      "email": "setucontabil@yahoo.com.br",
+      "empresa": "FEROIZAO TERRAPLANAGEM LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:25:58.303534",
+      "email": "joel.marcos@realma.com.br",
+      "empresa": "REALMA MANUTENCAO E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:02.340749",
+      "email": "realma.contabilidade@gmail.com",
+      "empresa": "REALMA MANUTENCAO E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:06.464056",
+      "email": "realmacl@uol.com.br",
+      "empresa": "REALMA MANUTENCAO E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:11.861435",
+      "email": "vanessa.oliveira@allis.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:16.437215",
+      "email": "diogenessousa@netsite.com.br",
+      "empresa": "SET MODELS AGENCY LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:22.058205",
+      "email": "luciano@twfcontabilidade.com.br",
+      "empresa": "CONTROLLER - SERVICOS GERAIS EM MAO-DE-O",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:26.519871",
+      "email": "magno@com4.com.br",
+      "empresa": "AGILIZA AGENCIA DE EMPREGOS TEMPORARIOS ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:31.611375",
+      "email": "carla.venancio@rhbrasil.com.br",
+      "empresa": "RHBRASIL SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:35.778390",
+      "email": "francielli.godois@imtep.com.br",
+      "empresa": "3778 GESTAO EM SAUDE LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:39.556303",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:44.505777",
+      "email": "contabilidade@kscontabil.com.br",
+      "empresa": "EMPREITEIRA PREST SERVICE LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:48.788315",
+      "email": "jafcontabil@triang.com.br",
+      "empresa": "C.W. ANSOLIN RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:54.574143",
+      "email": "wiliuoliveira@ig.com.br",
+      "empresa": "ROTA PRESTACAO DE SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:26:58.921580",
+      "email": "carlos@globalcontabilidade.com.br",
+      "empresa": "VAHR - CONSULTORIA E TERCEIRIZACAO EM TE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:05.447203",
+      "email": "ancora@anchor.com.br",
+      "empresa": "ANCORA SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:11.145487",
+      "email": "lasserv@petronline.com.br",
+      "empresa": "LUCKY - SERVICOS DE LIMPEZA E CONSERVACA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:16.201141",
+      "email": "contato@fiscolexonline.com.br",
+      "empresa": "INOVARHE TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:21.498763",
+      "email": "contband.uniao@terra.com.br",
+      "empresa": "NATURAL RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:26.967372",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:32.381704",
+      "email": "grrg@ig.com.br",
+      "empresa": "SERV PRESS SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:37.298732",
+      "email": "alceurh@gmail.com",
+      "empresa": "XWORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:42.301247",
+      "email": "ocmfa@ig.com.br",
+      "empresa": "UNNICOS MAO DE OBRA E CONSTRUCOES LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:46.988392",
+      "email": "lucilia.diretoria@contabilnicolini.com.br",
+      "empresa": "CLICK PROMOCOES E EVENTOS EIRELI",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:52.749969",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:27:59.072018",
+      "email": "vanessa.oliveira@allis.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:03.444612",
+      "email": "sonia@alphawork.com.br",
+      "empresa": "ALPHA WORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:08.139197",
+      "email": "contabil@luandre.com.br",
+      "empresa": "LUANDRE SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:13.486268",
+      "email": "diretoria@perfilapoio.com.br",
+      "empresa": "PERFIL APOIO E RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:17.715964",
+      "email": "luiz.testa@proativarh.com.br",
+      "empresa": "PROATIVA TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:21.733686",
+      "email": "gruposp@.grupoempresarial.com.br.",
+      "empresa": "LIDER RH LTDA",
+      "status": "falha",
+      "erro": "{'gruposp@.grupoempresarial.com.br.': (553, b'5.1.3 The recipient address <gruposp@.grupoempresarial.com.br.> is not a\\n5.1.3 valid RFC 5321 address. For more information, go to\\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\\n5.1.3 specifications. 71dfb90a1353d-5bb69010e23sm4268290e0c.6 - gsmtp')}"
+    },
+    {
+      "timestamp": "2026-06-12T19:28:26.734028",
+      "email": "chiquinhocontabilidade@uol.com.br",
+      "empresa": "CIMADE COMERCIAL E EMPREITEIRA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:32.176728",
+      "email": "diretoriacomercial@augerh.com.br",
+      "empresa": "XWORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:37.394541",
+      "email": "hpserv@hpserv.com.br",
+      "empresa": "H P SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:43.745488",
+      "email": "contlex@business.org.br",
+      "empresa": "ANCORA SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:48.011916",
+      "email": "vanessa.oliveira@allis.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:53.142838",
+      "email": "evando@hgrh.com.br",
+      "empresa": "SANCHES & FREITAS RECURSOS HUMANOS LTDA.",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:28:59.037899",
+      "email": "administracao.rf@rhskipper.com.br",
+      "empresa": "SKIPPER RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:05.211525",
+      "email": "firestar@uol.com.br",
+      "empresa": "FIRE STAR TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:10.685071",
+      "email": "mayaraoliveiramota@gmail.com",
+      "empresa": "CONDONAL COMERCIO E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:16.226306",
+      "email": "carla.venancio@rhbrasil.com.br",
+      "empresa": "RHBRASIL SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:20.434991",
+      "email": "vizeupc44@gmail.com",
+      "empresa": "MERIDIONAL SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:25.378767",
+      "email": "advance@uol.com.br",
+      "empresa": "YES MAO DE OBRA TEMPORARIA LTDA.",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:29.453149",
+      "email": "newservice3@yahoo.com.br",
+      "empresa": "NEW SERVICE ASSESSORIA E EVENTOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:34.636430",
+      "email": "pur@pur.ind.br",
+      "empresa": "PUR EQUIPAMENTOS INDUSTRIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:38.378843",
+      "email": "anderson@fernandesmantovani.com.br",
+      "empresa": "FIRE STAR TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:42.728327",
+      "email": "joao@sogamax.com.br",
+      "empresa": "SOGAMAX DISTRIBUIDORA DE PRODUTOS FARMAC",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:48.238194",
+      "email": "manoel@vipsconsultores.com.br",
+      "empresa": "ASSESSORIA EM RECURSOS HUMANOS GR CONNEC",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:52.048645",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:29:58.523887",
+      "email": "serta.adm@superig.com.br",
+      "empresa": "EMPREITEIRA CONSTRUNORTE LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:02.858065",
+      "email": "diretoria@caic.com.br",
+      "empresa": "CAIC SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:06.691774",
+      "email": "d.s.cont@terra.com.br",
+      "empresa": "DAYNELE PRESTACAO DE SERVICOS S/S LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:12.704886",
+      "email": "financeiro@parceriaconsult.com.br",
+      "empresa": "PARCERIA SERVICOS TEMPORARIOS LIMITADA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:18.164598",
+      "email": "mais@maismultiservcos.com.br",
+      "empresa": "MAIS MULTISERVICOS LTDA.",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:22.457421",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:26.177247",
+      "email": "contato@fiscolexonline.com.br",
+      "empresa": "INOVARHE TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:31.275488",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "SEMPRE TERCEIRIZACAO EM SERVICOS GERAIS ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:37.586627",
+      "email": "esacol@esacol.com.br",
+      "empresa": "WORLD CLEAN SERVICOS GERAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:41.277700",
+      "email": "holding@terra.com.br",
+      "empresa": "HOLDING SERVICOS EMPRESARIAIS S/S LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:48.406773",
+      "email": "robertoabc@gmail.com",
+      "empresa": "ALBINA CONSERVACAO E SERVICOS TECNICOS L",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:53.252542",
+      "email": "confias@click21.com.br",
+      "empresa": "J&M PRESTACAO DE SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:30:58.522170",
+      "email": "sertec@sertec.com",
+      "empresa": "SP CONSULTORIA EM RH LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:04.377742",
+      "email": "contabilidadenordeste@hotmail.com",
+      "empresa": "CONSERVADORA ARANAS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:08.350318",
+      "email": "novaera@exnet.com.br",
+      "empresa": "TAC WORK SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:13.007648",
+      "email": "correio@grupomcb.com.br",
+      "empresa": "HUNTERS CONSULTORIA EMPRESARIAL LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:18.710720",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:22.957340",
+      "email": "josemir1979@yahoo.com.br",
+      "empresa": "EMPREITEIRA ELDORADO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:28.256203",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:33.869174",
+      "email": "inova.cont.adm@terra.com.br",
+      "empresa": "INOVAR CONSULTORIA EM RECURSOS HUMANOS E",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:39.512689",
+      "email": "murilo_tasca@uol.com.br",
+      "empresa": "EMPRELIMP SERVICOS GERAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:45.447100",
+      "email": "comercial@afamar.com.br",
+      "empresa": "AFAMAR ASSESSORIA EM RECURSOS HUMANOS LT",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:51.532515",
+      "email": "vanessa.oliveira@allis.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:31:57.097623",
+      "email": "escritituiutaba@netsite.com.br",
+      "empresa": "C.M.V. CONSTRUTORA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:03.437300",
+      "email": "paulo@anchor.com.br",
+      "empresa": "ANCORA SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:09.805304",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:13.416680",
+      "email": "contato@stempresarial.com.br",
+      "empresa": "ESP SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:19.587460",
+      "email": "verticerh@yahoo.com.br",
+      "empresa": "VERTICE CONSULTORIA EM RECURSOS HUMANOS ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:24.503443",
+      "email": "contulhoa@veloxmail.com.br",
+      "empresa": "ICQ SERVICEINSPECOES CONTROLE DA QUALIDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:30.518376",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:35.491215",
+      "email": "jean_contador@ibest.com.br",
+      "empresa": "G & V EMPREGOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:41.337646",
+      "email": "jwclrow@uol.com.br",
+      "empresa": "SIGMA DELTA LTDA.",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:44.935500",
+      "email": "celso@terselrh.com.br",
+      "empresa": "TERSEL SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:51.421691",
+      "email": "nr.contabilidade@live.com",
+      "empresa": "SERSATI MULTI SERVICOS LOCACAO DE MAO DE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:32:58.786324",
+      "email": "novaempregos@novaempregos.com.br",
+      "empresa": "NOVA RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:07.045419",
+      "email": "sigma@skydome.net.com.br",
+      "empresa": "GTS CONSULTORIA DE RECURSOS HUMANOS E SE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:15.857206",
+      "email": "gerente.financeiro@flexaez.com.br",
+      "empresa": "FLEX ASSESSORIA E ZELADORIA LTDA - EM RE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:23.082024",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:29.647255",
+      "email": "duest@terra.com.br",
+      "empresa": "DUEST RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:37.311721",
+      "email": "realma.contabilidade@gmail.com",
+      "empresa": "REALMA MANUTENCAO E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:47.139834",
+      "email": "edusilva35@gmail.com",
+      "empresa": "PROFER SERVICOS DE LOCACAO DE MAO DE OBR",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:33:55.639012",
+      "email": "rogerio.camilo2010@yahoo.com.br",
+      "empresa": "R. CAMILO MAO DE OBRA TEMPORARIA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:00.692710",
+      "email": "queensassessoria@uol.com.br",
+      "empresa": "FRANCISCO L. ALVES EMPREITEIRA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:08.782081",
+      "email": "luguiassessoria@uol.com.br",
+      "empresa": "SANTA LIMP SERVICOS DE PORTARIA E LIMPEZ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:19.739659",
+      "email": "conesul_oeste@conesulrh.com.br",
+      "empresa": "CONESUL CONSULTORIA E RECURSOS HUMANOS L",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:26.063242",
+      "email": "joansla@uol.com.br",
+      "empresa": "USE & SERVICE RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:36.182917",
+      "email": "andrea.fe@poa.performance.com.br",
+      "empresa": "PTT SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:47.350033",
+      "email": "escritoriocjm@yahoo.com.br",
+      "empresa": "JAF EMPREITEIRA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:34:55.963187",
+      "email": "ivan@qualiman-servicos.com.br",
+      "empresa": "GUIAMA ADMINSTRACAO DE SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:02.926957",
+      "email": "contabsimone@flopinfo.com.br",
+      "empresa": "INCITEC INDUSTRIA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:13.009639",
+      "email": "enatalino@uol.com.br",
+      "empresa": "NATALINO FERREIRA MENDES CONSTRIUCOES",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:21.410146",
+      "email": "magna@marksist.com.br",
+      "empresa": "RIOVIVO AMBIENTAL LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:29.487965",
+      "email": "roberto@tectemp.com.br",
+      "empresa": "TECSEL SELECAO, MAO DE OBRA TEMPORARIA E",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:37.007880",
+      "email": "luiz.testa@proativarh.com.br",
+      "empresa": "PROATIVA RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:44.636003",
+      "email": "contabilex01@uol.com.br",
+      "empresa": "TOTAL RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:50.283611",
+      "email": "legalizacao@assistcontjur.com.br",
+      "empresa": "LUATAL SERVICOS ADMINISTRATIVOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:35:59.514089",
+      "email": "rodrigolga@uol.com.br",
+      "empresa": "A. C. CARDOSO DE PAIVA LOCACOES",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:05.672198",
+      "email": "depto.legalizacao@macmatriz.com.br",
+      "empresa": "VITENGI ADMINISTRACAO DE SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:11.249064",
+      "email": "carla.venancio@rhbrasil.com.br",
+      "empresa": "RHBRASIL SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:17.360213",
+      "email": "denisesantos42@hotmail.com",
+      "empresa": "FATTORE ASSESSORIA E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:26.413647",
+      "email": "legalizacao@ncsistema.com.br",
+      "empresa": "CONGER SERVICOS E COMERCIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:33.533318",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:41.631598",
+      "email": "andre@luandre.com.br",
+      "empresa": "LUANDRE SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:48.151338",
+      "email": "marcio@mcxsolucoescontabeis.com.br",
+      "empresa": "PERSONAL SERVICE RECURSOS HUMANOS E ASSE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:36:58.305067",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:07.750658",
+      "email": "contato@destake.com",
+      "empresa": "ESPERANCA EFETIVOS E TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:17.281162",
+      "email": "layout@task.com.br",
+      "empresa": "LAY - OUT CENATTER MERCHANDISING LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:24.960978",
+      "email": "marcia@premiumkm.com.br",
+      "empresa": "PREMIUM PERSONAL DRIVER LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:33.263863",
+      "email": "ana@acertacontabil.com.br",
+      "empresa": "BOM TEMPO SERVICOS TEMPORARIOS E EFETIVO",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:39.133228",
+      "email": "nework.bh@zaz.com.br",
+      "empresa": "NEW WORK SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:47.332615",
+      "email": "controlcontabil@ig.com.br",
+      "empresa": "ATENAS MAO DE OBRA TEMPORARIA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:37:57.339202",
+      "email": "sergio@dvisaocontabil.com.br",
+      "empresa": "ALPHA WORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:07.270300",
+      "email": "rwr@rwrcontabil.com.br",
+      "empresa": "PRECISA RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:14.322558",
+      "email": "diretoria@caic.com.br",
+      "empresa": "CAIC SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:20.763912",
+      "email": "adriana@novaskala.com.br",
+      "empresa": "TALENTO SERVICOS E MAO DE OBRA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:29.537024",
+      "email": "socorrocontabil@terra.com.br",
+      "empresa": "TRANSLIC LOCADORA DE SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:37.568651",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:43.924854",
+      "email": "carlos@globalcontabilidade.com.br",
+      "empresa": "VAHR - CONSULTORIA E TERCEIRIZACAO EM TE",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:53.141803",
+      "email": "joel.marcos@realma.com.br",
+      "empresa": "REALMA MANUTENCAO E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:38:59.677260",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:07.789594",
+      "email": "financeiro@parceriaconsult.com.br",
+      "empresa": "PARCERIA CONSULTORIA EMPRESARIAL LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:15.394424",
+      "email": "alves@escritorioalves.com.br",
+      "empresa": "NOVA RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:22.991484",
+      "email": "legal2@azeplancontabil.com.br",
+      "empresa": "ATELIE DE PROMOCOES SERVICOS TEMPORARIOS",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:27.219676",
+      "email": "anaiascontabil@ig.com.br",
+      "empresa": "SEVERINO ANTONIO DA SILVA EMPREITEIRA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:32.311207",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:38.545042",
+      "email": "jcmaranhao@jfmaranhao.com.br",
+      "empresa": "SIMONSEN SERVICOS EFETIVOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:43.946027",
+      "email": "jbm.empreiteira@ig.com.br",
+      "empresa": "JBM EMPREITEIRA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:39:48.617430",
+      "email": "baptistella@terra.com.br",
+      "empresa": "S P G RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:40:33.131380",
+      "email": "escritorio.petrucelli@uol.com.br",
+      "empresa": "ISAIAS MORATO DE MELLO",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:40:36.712571",
+      "email": "contadores@fernandeseduarte.om.br",
+      "empresa": "SUPORT SERVICOS DE MAO DE OBRA LTDA.",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:40:42.464940",
+      "email": "leticia.costa@tcibpo.com",
+      "empresa": "RH BUILD UP  - TERCEIRIZACAO E ASSESSORI",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:40:47.340667",
+      "email": "santanaealves@bol.com.br",
+      "empresa": "EMPREITEIRA SANTANA & ALVES S/C LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:40:51.274400",
+      "email": "carla.venancio@rhbrasil.com.br",
+      "empresa": "RHBRASIL SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:40:56.265054",
+      "email": "andrea.fe@poa.performance.com.br",
+      "empresa": "PTT SERVICOS EMPRESARIAIS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:41:02.371324",
+      "email": "auge@splicenet.com.br",
+      "empresa": "XWORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:41:13.659235",
+      "email": "roberta.ferreira@ecb.cnt.br",
+      "empresa": "START SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:41:46.342567",
+      "email": "fatimarodrigues@alliage.com.br",
+      "empresa": "ALLIAGE CONSULTORIA EM RECURSOS HUMANOS ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:41:57.963892",
+      "email": "contato@qwrh.com.br",
+      "empresa": "QW RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:42:09.586741",
+      "email": "destake@destake.com",
+      "empresa": "ESPERANCA EFETIVOS E TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:42:24.322214",
+      "email": "mvcontab@superig.com.br",
+      "empresa": "AG BRASIL EMPRESA BRASILEIRA DE RECURSOS",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:42:44.211571",
+      "email": "dp2@expectativ.com.br",
+      "empresa": "EXPECTATIV RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:42:54.664275",
+      "email": "contabilidade@grupoimplus.com.br",
+      "empresa": "3778 GESTAO EM SAUDE LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:05.065297",
+      "email": "ricproe@gmail.com",
+      "empresa": "HALLER CONSULTORIA E RECURSOS HUMANOS LT",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:16.707679",
+      "email": "josemir1979@yahoo.com.br",
+      "empresa": "VENDA NOVA CONSTRUCOES LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:26.758380",
+      "email": "esccaldeira@terra.com.br",
+      "empresa": "XWORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:34.964400",
+      "email": "jrcontassessoria@uol.com.br",
+      "empresa": "NOVA ERA CONSULTORIA E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:43.276784",
+      "email": "contabilidade@gerencialbrasil.com.br",
+      "empresa": "GERENCIAL BRASIL PARTICIPACOES E EMPREEN",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:51.304827",
+      "email": "legal@informarcontabil.com.br",
+      "empresa": "SUPORTE EMPREITEIRA DE MAO DE OBRA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:43:58.933475",
+      "email": "vanessa.oliveira@allis.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:44:09.472249",
+      "email": "esccaldeira@terra.com.br",
+      "empresa": "XWORK RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:44:18.366166",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:44:31.416467",
+      "email": "christiano@grupocastelmar.com.br",
+      "empresa": "MODI MAO DE OBRA E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:44:39.976419",
+      "email": "maria.mazzarello@ambc.com.br",
+      "empresa": "AMBC TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:44:49.344437",
+      "email": "amg@amgconsultores.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:44:58.518623",
+      "email": "mayco@dunzer.com.br",
+      "empresa": "RHBRASIL SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:05.971953",
+      "email": "santamaria@uol.com.br",
+      "empresa": "SANTA MARIA PRODUTOS E SERVICOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:13.483825",
+      "email": "geconservacao@ig.com.br",
+      "empresa": "GE - TERCEIRIZACAO, CONSERVACAO E LIMPEZ",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:19.839290",
+      "email": "diretoria@caic.com.br",
+      "empresa": "CAIC SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:27.840544",
+      "email": "zagwork@zagwork.com",
+      "empresa": "ZAG WORK CONSULTORIA EM RECURSOS HUMANOS",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:35.386046",
+      "email": "cnpj.cadastro@gpssa.com.br",
+      "empresa": "LUANDRE SERVICOS TEMPORARIOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:42.331565",
+      "email": "amauri@grupomodusrh.com.br",
+      "empresa": "MODUS SERVICOS TEMPORARIOS E EMPRESARIAI",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:47.961521",
+      "email": "alves@escritorioalves.com.br",
+      "empresa": "NOVA RECURSOS HUMANOS LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:54.206552",
+      "email": "diretoria@grupooriente.com",
+      "empresa": "ORIENTE TERCEIRIZACAO DE MAO DE OBRA LTD",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:45:59.649409",
+      "email": "rh.mundial@uol.com.br",
+      "empresa": "MUNDIAL-ASSESSORIA DE RECURSOS HUMANOS L",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:46:06.676881",
+      "email": "jose.bonano@gpssa.com.br",
+      "empresa": "TOP SERVICE SERVICOS E SISTEMAS S/A",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:46:13.963290",
+      "email": "real@realserv.com.br",
+      "empresa": "REAL SERVICOS TECNICOS E VIGILANCIA LTDA",
+      "status": "sucesso",
+      "erro": null
+    },
+    {
+      "timestamp": "2026-06-12T19:46:19.638920",
+      "email": "trude@trude.com.br",
+      "empresa": "IMED TRABALHO TEMPORARIO LTDA",
+      "status": "sucesso",
+      "erro": null
+    }
+  ]
+}

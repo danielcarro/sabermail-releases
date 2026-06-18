@@ -4,17 +4,23 @@ import os
 import re
 import ssl
 import sys
+from pathlib import Path
 import time
 from dataclasses import dataclass
 from email.message import EmailMessage
 from email.utils import formataddr, make_msgid, localtime
-from pathlib import Path
 from typing import Iterable, List, Dict, Any, Set, Optional, Tuple
 
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import html2text
 from email_validator import validate_email, EmailNotValidError
+
+def _ssl_ctx():
+    path = Path(__file__).resolve().parent / "ssl" / "gmail-ca-bundle.pem"
+    ctx = ssl.create_default_context(cafile=str(path))
+    ctx.verify_flags = ssl.VERIFY_X509_PARTIAL_CHAIN
+    return ctx
 
 EMAIL_KEY_ALIASES = {"email", "e-mail", "mail"}
 
@@ -185,28 +191,21 @@ def send_messages(config: Config, messages: List[EmailMessage], dry_run: bool = 
     rate = rate_per_minute if rate_per_minute is not None else config.rate_per_minute
     delay = (60.0 / rate) if rate and rate > 0 else 0.0
 
-    if config.use_ssl:
-        context = ssl.create_default_context()
-        import smtplib
-        with smtplib.SMTP_SSL(config.smtp_host, config.smtp_port, context=context) as server:
-            server.login(config.smtp_username, config.smtp_password)
-            for i, msg in enumerate(messages, start=1):
-                server.send_message(msg)
-                print(f"[OK] {i}/{len(messages)} -> {msg['To']}")
-                if delay and i < len(messages):
-                    time.sleep(delay)
+    import smtplib
+    if config.smtp_port == 465:
+        context = _ssl_ctx()
+        server = smtplib.SMTP_SSL(config.smtp_host, config.smtp_port, context=context)
     else:
-        # STARTTLS path
-        import smtplib
-        with smtplib.SMTP(config.smtp_host, config.smtp_port) as server:
-            server.ehlo()
-            server.starttls(context=ssl.create_default_context())
-            server.login(config.smtp_username, config.smtp_password)
-            for i, msg in enumerate(messages, start=1):
-                server.send_message(msg)
-                print(f"[OK] {i}/{len(messages)} -> {msg['To']}")
-                if delay and i < len(messages):
-                    time.sleep(delay)
+        server = smtplib.SMTP(config.smtp_host, config.smtp_port)
+        server.ehlo()
+        server.starttls(context=_ssl_ctx())
+    with server:
+        server.login(config.smtp_username, config.smtp_password)
+        for i, msg in enumerate(messages, start=1):
+            server.send_message(msg)
+            print(f"[OK] {i}/{len(messages)} -> {msg['To']}")
+            if delay and i < len(messages):
+                time.sleep(delay)
 
 
 def main(argv=None) -> int:
